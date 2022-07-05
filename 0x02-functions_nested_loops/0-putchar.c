@@ -15,7 +15,6 @@ int main(void)
 	_putchar('e');
 	_putchar('l');
 	_putchar('o');
-	_putchar('n');
 	_putchar('\n');
 
 	return (0);
